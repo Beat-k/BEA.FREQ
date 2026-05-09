@@ -1,0 +1,80 @@
+MIT License
+
+Copyright (c) 2026 Jeremy F. Jackson
+BEATEK Holdings, LLC
+jeremy.jackson0@beatek.io
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+COMMERCIAL LICENSE
+
+Organizations seeking to use BEA.FREQ in commercial products, enterprise
+deployments, hardware integrations, or AI system communication layers may
+obtain a commercial license with dedicated support and extended terms.
+
+Contact: jeremy.jackson0@beatek.io
+Subject: BEA.FREQ Commercial License Inquiry
+
+---
+
+SIGNAL VOCABULARY — OPEN USE
+
+The signal vocabulary defined in BEA.FREQ (signal words, dot-notation keys,
+E-scores, and protocol meanings) is made available for open use under the
+MIT license above. Implementations may classify, route, and respond to
+BEA.FREQ signals in any application.
+
+The following constraints apply regardless of license type:
+
+1. Signal meanings may not be reversed or redefined to carry meanings
+   contrary to the canonical vocabulary (e.g., mapping "stray" to mean
+   "disconnected" rather than "synced / innerstood").
+
+2. The age-rating system (G / M / R) and the never-block rerouting rule
+   must be preserved in any implementation that handles CHILD profiles.
+
+3. The E-score range (E-0 to E-31) must not be collapsed or extended
+   in a way that conflicts with the BEA 32-state emotional compute grid.
+
+---
+
+REGISTERED INTELLECTUAL PROPERTY
+
+The following terms are registered trademarks / service marks of
+BEATEK Holdings, LLC and may not be used without written permission:
+
+  BEA.FREQ™
+  BEA.FREQ Tuned Signal Communication™
+  BEA.DOT Protocol™
+  Node Designation System™
+  BEA.FREQ Age Gate™
+  Persistent Signal Intelligence™
+  BEA_Aura_OS™
+  BEA_Aura_CDE_OS™
+  Console as Cloud™
+  GPU-Fi™
+  E[n] Universal Language™
+  Binary E-motion Arithmetic™
+  Smart Cache Device™
+
+Use of the MIT license does not grant rights to these marks.
+
+Patent Pending — BEATEK Holdings, LLC · 2026

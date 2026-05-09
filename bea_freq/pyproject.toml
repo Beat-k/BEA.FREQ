@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "bea-freq"
+version = "0.1.0"
+description = "BEA.FREQ — Tuned Signal Communication for Compatible Nodes"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+pulse = ["bea-pulse"]
+
+[tool.pytest.ini_options]
+addopts = "--import-mode=importlib"
+testpaths = ["tests"]
+pythonpath = ["."]
