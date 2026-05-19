@@ -11,6 +11,25 @@
 3. **You cannot force it.** If the word doesn't naturally carry the meaning — the signal doesn't work.
 4. **Node letters define the signal's origin.** The same stem with a different node = different signal.
 5. **Age rating is carried on the signal, not the word.** The same word can rate differently across cultures; the protocol scores context, not just string content.
+6. **One dot. One node. The stem does not get dots.**
+
+### Rule 6 — Dot Placement (plain language)
+
+The dot goes directly before the node letter. That's the only place it goes.
+
+For `.y`: the node is the **last letter** of the word. The dot goes before that final `y`. The stem — everything to the left of the dot — is written clean with no dots in it.
+
+```
+✓  stra.y       correct — dot before the last letter
+✗  s.tr.a.y     wrong — the stem does not get dots
+✗  s.t.r.a.y    wrong — this is not a signal, it's noise
+```
+
+`stra.y` is the signal. `s.tr.a.y` does not exist in this protocol. It never did.
+
+The `.i` node is the only case where the dot appears inside a word — because `i` is an interior letter. Even then: one dot, one node.
+
+**If you see multiple dots on a `.y` signal, it is wrong. Full stop.**
 
 ---
 
